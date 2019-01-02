@@ -1,0 +1,23 @@
+body {
+	background-color: grey;
+}
+
+	.page{
+		background-color: white;
+		width: 700px;
+		height: 1100px;
+		margin: 0 auto;
+		padding: 30px;
+		border-radius: 10px;
+		}
+
+		.infos-utile{
+			position: right;
+
+
+		}
+
+		.titre{
+			margin-left: 30PX;
+
+		}
